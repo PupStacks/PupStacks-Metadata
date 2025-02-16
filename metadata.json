@@ -1,6 +1,7 @@
 {
   "name": "PupStacks",
   "symbol": "PSTACKS",
+  "uri": "https://raw.githubusercontent.com/PupStacks/PupStacks-Metadata/refs/heads/main/metadata.json",
   "description": "PupStacks ($PSTACKS) is the ultimate meme coin for stacking gains with the cutest pups in crypto!",
   "image": "https://raw.githubusercontent.com/PupStacks/PupStacks-Metadata/refs/heads/main/PupStacks1.png.webp",
   "token_address": "527VEYhmkga3cPsxspAypLRFHXbendEBi2XxuZizRiq",
@@ -9,3 +10,4 @@
     { "trait_type": "Community Strength", "value": "Mooning" }
   ]
 }
+
