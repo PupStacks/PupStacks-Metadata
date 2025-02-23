@@ -2,7 +2,7 @@
   "name": "PupStacks",
   "symbol": "PSTACKS",
   "description": "PupStacks ($PSTACKS) is the ultimate meme coin for stacking gains with the cutest pups in crypto!",
-  "image": "https://raw.githubusercontent.com/PupStacks/PupStacks-Metadata/refs/heads/main/PupStacks1.png.webp",
+  "image": "https://raw.githubusercontent.com/PupStacks/PupStacks-Metadata/refs/heads/main/pupstacks.png",
   "token_address": "9SLj71nP1SpHfmzw44Q83mUTD3KaSeYLVQMWRd1Pq9L1",
   "attributes": [
     { "trait_type": "Meme Power", "value": "Over 9000" },
